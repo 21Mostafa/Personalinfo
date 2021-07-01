@@ -1,0 +1,52 @@
+.Middle{
+margin: 0%;
+margin-left: 10px;
+
+float: left;
+width: 49%;
+}
+.pike{
+    width: 100%;
+}
+
+
+
+
+.size{
+
+width: 70%;
+
+}
+.Left{
+    float: left;
+}
+p{   font-weight: bold;            }
+
+
+.usa{
+
+text-decoration: none;
+background-image: linear-gradient(salmon ,tomato);
+border-radius: 10px;
+padding: 10px 20px;
+
+}
+.no{ color:sienna;}
+
+
+
+.llw{
+    color: yellowgreen;
+}
+.Done{
+
+    background-image:url(picture/marco-mons-3h5SIlxnOXA-unsplash.jpg);}
+
+.Gone{background-image: url(picture/profile12.png);}
+  
+   
+   
+    .OMG{ background-image: url(picture/roman-kraft-7sPg5OLfExc-unsplash.jpg);}
+    body{ background-image: url(picture/keith-misner-h0Vxgz5tyXA-unsplash.jpg);}
+    .WOLF{background-image: url(picture/marco-mons-3h5SIlxnOXA-unsplash.jpg);}
+    
